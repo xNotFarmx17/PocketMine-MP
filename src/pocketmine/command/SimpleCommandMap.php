@@ -22,6 +22,7 @@
 namespace pocketmine\command;
 
 use pocketmine\command\defaults\BanCidByNameCommand;
+use pocketmine\command\defaults\PingCommand;
 use pocketmine\command\defaults\BanCidCommand;
 use pocketmine\command\defaults\BanCommand;
 use pocketmine\command\defaults\BanIpByNameCommand;
